@@ -1,2 +1,2 @@
-# Hacktoberfest-2k18
-Contribute for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 2k18
+# Artificial Intelligence
+Collection of Resources related to AI.
